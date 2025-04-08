@@ -1,0 +1,2 @@
+# JavaScript-Learning
+Some javascript projects that I made while learning 
