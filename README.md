@@ -1,3 +1,4 @@
 # Learning-JavaScript
-Some javascript projects that I made while learning 
+JavaScript used for the first time
+first project
 hello
